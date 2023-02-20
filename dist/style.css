@@ -13,7 +13,7 @@ body{background-color:#060042;
         padding:15px 20px;
         font-size:1.25rem;
         color:#FACACA;
-        border: 3px solid #2E645B;
+        border: 1px solid #2E645B;
         text-decoration:none;
         transition:all .2s ease-in-out}
         a.featured{position:relative;
